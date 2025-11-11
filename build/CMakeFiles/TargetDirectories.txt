@@ -1,0 +1,14 @@
+C:/Users/ariba/lab10/build/CMakeFiles/AlgorithmUtils.dir
+C:/Users/ariba/lab10/build/CMakeFiles/runTests.dir
+C:/Users/ariba/lab10/build/CMakeFiles/edit_cache.dir
+C:/Users/ariba/lab10/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/CMakeFiles/edit_cache.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/CMakeFiles/rebuild_cache.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googlemock/CMakeFiles/gmock.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googlemock/CMakeFiles/edit_cache.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googlemock/CMakeFiles/rebuild_cache.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googletest/CMakeFiles/edit_cache.dir
+C:/Users/ariba/lab10/build/_deps/googletest-build/googletest/CMakeFiles/rebuild_cache.dir

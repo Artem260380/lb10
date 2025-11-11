@@ -1,0 +1,21 @@
+# ninja log v7
+1	61	7845988025675273	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2d23af4700a147c7
+1	61	7845988025675273	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2d23af4700a147c7
+61	1269	7845988037761744	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c181d7461bbad7e4
+61	1269	7845988037761744	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	c181d7461bbad7e4
+1270	1331	7845988038356443	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a1f0b56eb810928f
+1270	1331	7845988038356443	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	a1f0b56eb810928f
+1331	1391	7845988038958016	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	e1c8104f0d2488ba
+1331	1391	7845988038958016	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	e1c8104f0d2488ba
+1391	1455	7845988039608539	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	719c924bb62a1690
+1391	1455	7845988039608539	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	719c924bb62a1690
+1455	1512	7845988040191799	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e79ee7f8167ee265
+1455	1512	7845988040191799	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e79ee7f8167ee265
+1512	1573	7845988040793976	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e6aa577e7fae02c
+1512	1573	7845988040793976	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	e6aa577e7fae02c
+1573	1632	7845988041384680	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d84000e0d81a8bec
+1573	1632	7845988041384680	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d84000e0d81a8bec
+1632	1715	7845988042221359	CMakeFiles/googletest-populate-complete	531c3023aa6450f5
+1632	1715	7845988042221359	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	531c3023aa6450f5
+1632	1715	7845988042221359	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	531c3023aa6450f5
+1632	1715	7845988042221359	C:/Users/ariba/lab10/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	531c3023aa6450f5

@@ -1,0 +1,15 @@
+# ninja log v7
+33	665	7845988119149344	CMakeFiles/AlgorithmUtils.dir/AlgorithmUtils.cpp.obj	4d7f0880ddb06374
+667	1058	7845988125484127	libAlgorithmUtils.a	84c87fd32920a6bd
+39	1290	7845988119211319	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	80778e16a5903b9b
+43	1578	7845988119246992	CMakeFiles/runTests.dir/AlgorithmUtilsTest.cpp.obj	51a1c6fa3d4768bc
+36	1609	7845988119180761	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	88526315c349f6c
+29	2476	7845988119108498	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	82f5910c95219cbb
+5	5495	7845988118873212	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	73316be47ec468b5
+5497	5734	7845988173790693	lib/libgtest.a	2dcec27ea8478b8d
+5736	5912	7845988176184143	lib/libgtest_main.a	7acfdd8e9515dae0
+5734	5926	7845988176158759	lib/libgmock.a	5b35e7b29991e6d5
+5926	6091	7845988178076252	lib/libgmock_main.a	ae719fb906c32461
+6091	6479	7845988183506223	runTests.exe	2ae1c12ae1f9d373
+6091	6479	7845988183506223	runTests[1]_tests.cmake	2ae1c12ae1f9d373
+6091	6479	7845988183506223	C:/Users/ariba/lab10/build/runTests[1]_tests.cmake	2ae1c12ae1f9d373
